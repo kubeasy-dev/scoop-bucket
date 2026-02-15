@@ -6,14 +6,14 @@
             "bin": [
                 "kubeasy.exe"
             ],
-            "hash": "6f1e9a72437d515cbda591ad499f5ffd43f365da31aa99251cd5ceb812f6e8d6"
+            "hash": "a36c2240d5460ef9571a642592ba982879cfa9d80d16017dfbfbf59bf47a68db"
         },
         "arm64": {
             "url": "https://github.com/kubeasy-dev/kubeasy-cli/releases/download/v2.5.2/kubeasy-cli_v2.5.2_windows_arm64.tar.gz",
             "bin": [
                 "kubeasy.exe"
             ],
-            "hash": "10a488590b969b0e16136f90db0d4a57576d70d6e062281b50354deba30640cb"
+            "hash": "512943a402d36ef00bc46716bbd44105e90bec3e93a0664dcfc1ceca81e03178"
         }
     },
     "homepage": "https://kubeasy.dev",
