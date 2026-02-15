@@ -1,0 +1,22 @@
+{
+    "version": "2.5.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kubeasy-dev/kubeasy-cli/releases/download/v2.5.2/kubeasy-cli_v2.5.2_windows_amd64.tar.gz",
+            "bin": [
+                "kubeasy.exe"
+            ],
+            "hash": "6f1e9a72437d515cbda591ad499f5ffd43f365da31aa99251cd5ceb812f6e8d6"
+        },
+        "arm64": {
+            "url": "https://github.com/kubeasy-dev/kubeasy-cli/releases/download/v2.5.2/kubeasy-cli_v2.5.2_windows_arm64.tar.gz",
+            "bin": [
+                "kubeasy.exe"
+            ],
+            "hash": "10a488590b969b0e16136f90db0d4a57576d70d6e062281b50354deba30640cb"
+        }
+    },
+    "homepage": "https://kubeasy.dev",
+    "license": "MIT",
+    "description": "CLI tool to learn Kubernetes through practical challenges"
+}
