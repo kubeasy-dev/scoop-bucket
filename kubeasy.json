@@ -1,19 +1,19 @@
 {
-    "version": "2.6.0",
+    "version": "2.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kubeasy-dev/kubeasy-cli/releases/download/v2.6.0/kubeasy-cli_v2.6.0_windows_amd64.tar.gz",
+            "url": "https://github.com/kubeasy-dev/kubeasy-cli/releases/download/v2.7.0/kubeasy-cli_v2.7.0_windows_amd64.tar.gz",
             "bin": [
                 "kubeasy.exe"
             ],
-            "hash": "727d25ffd17d6290017d50ecf955b4b0170d84033591f49df0a20501a0cfc48a"
+            "hash": "7287e70b13102c2003ca6ea148df4203752d678149ba1df68c476f0374e973ec"
         },
         "arm64": {
-            "url": "https://github.com/kubeasy-dev/kubeasy-cli/releases/download/v2.6.0/kubeasy-cli_v2.6.0_windows_arm64.tar.gz",
+            "url": "https://github.com/kubeasy-dev/kubeasy-cli/releases/download/v2.7.0/kubeasy-cli_v2.7.0_windows_arm64.tar.gz",
             "bin": [
                 "kubeasy.exe"
             ],
-            "hash": "6c1ff6c0678845400d6604d6d8b3b440206372754132530af6d684127aecfceb"
+            "hash": "dde3aac9d3a8d2081f8c0b3bccd0e3688e3fb587a4c160ecd69a2736f51706d3"
         }
     },
     "homepage": "https://kubeasy.dev",
